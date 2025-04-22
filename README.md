@@ -46,6 +46,24 @@ Upload your Hugging face id there : HF_API_KEY = "YOUR_KEY"
 
 ## 📚 Usage & Output
 ---
+# UI
+![UI](Photos/basic_ui.png)
+
+---
+# Result
+![Result](Photos/result.png)
+
+---
+# Sentiment
+![Sentiment](Photos/sentiment.png)
+
+---
+# Raw content
+![Raw](Photos/raw.png)
+
+---
+# Terminal
+![Terminal](Photos/terminal.png)
 
 ## 🧠 Powered By
 
@@ -67,7 +85,7 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ## 🧑‍💻 Author
 
-Created by [Balasurya P T](https://github.com/yourusername).  
+Created by [Balasurya P T](https://github.com/balasurya20).  
 Feel free to reach out or star the repo if you found it useful!
 
 ---
