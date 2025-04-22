@@ -21,8 +21,8 @@ An intelligent AI-powered agent that performs **web scraping**, **content summar
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-web-scraping-agent.git
-cd ai-web-scraping-agent
+https://github.com/balasurya20/Zocket_Task_AI_Agent.git
+cd Zocket_Task_AI_Agent
 ```
 
 2. Create a virtual environment and install dependencies:
@@ -69,8 +69,6 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 Created by [Balasurya P T](https://github.com/yourusername).  
 Feel free to reach out or star the repo if you found it useful!
-
-```
 
 ---
 
