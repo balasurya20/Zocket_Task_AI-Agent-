@@ -8,7 +8,7 @@ import time
 
 class ScraperAgent:
     def __init__(self, hf_api_key=None):
-        self.hf_api_key = "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"
+        self.hf_api_key = os.environ.get("HF_API_KEY")
         self.hf_api_url = "https://api-inference.huggingface.co/models/"
         self.summarization_model = "facebook/bart-large-cnn"
         self.sentiment_model = "distilbert-base-uncased-finetuned-sst-2-english"
